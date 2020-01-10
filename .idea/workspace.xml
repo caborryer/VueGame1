@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d124e31a-f271-4a8e-b485-6440e8ea4147" name="Default Changelist" comment="" />
+    <list default="true" id="d124e31a-f271-4a8e-b485-6440e8ea4147" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WAnJ5sdLDypNcMp4s0P37iCxSX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -47,16 +55,42 @@
       <option name="presentableId" value="Default" />
       <updated>1578601191265</updated>
       <workItem from="1578601192433" duration="6465000" />
+      <workItem from="1578608417507" duration="351000" />
+      <workItem from="1578673859327" duration="2853000" />
     </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1578676878094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578676878094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1578677020206">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578677020206" />
     <state x="-68" y="0" width="1591" height="860" key="SettingsEditor" timestamp="1578601727530">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="-68" y="0" width="1591" height="860" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578601727530" />
+    <state x="292" y="97" key="Vcs.Push.Dialog.v2" timestamp="1578676940195">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578676940195" />
+    <state x="411" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1578673860176">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="411" y="211" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578673860176" />
   </component>
 </project>
